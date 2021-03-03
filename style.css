@@ -173,6 +173,10 @@ i {
   background-color: #999;
 }
 
+.btn-block {
+  font-size: 1.1rem;
+}
+
 .top {
   display: inline-block;
   padding: 6px 10px;
